@@ -29,7 +29,7 @@ To use this script, follow these steps carefully:
    - Go to the **Console** tab in Developer Tools.
 
 5. **Run the Script**:
-   - Copy the JavaScript code from the file **`delete-all-telegram-contacts.js`**.
+   - Copy the JavaScript code from the file **`telegram-delete-contacts-automatic.js`**.
    - Paste the code into the Console and press `Enter` to execute it.
 
 6. **Automated Deletion**:
